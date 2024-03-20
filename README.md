@@ -1,6 +1,19 @@
 # Conventions de Codage
 
-Ce document décrit les conventions de codage à suivre dans le cadre du projet XYZ afin d'assurer une cohérence et une lisibilité maximales du code.
+Ce document va vous permettre de connaître les bonnes conventions de codage lors de projets en collaborations.
+
+## Nomenclature
+Nommer ses variables correctement selon des conventions officielles.
+```python
+# Variables (camelCase ou snake_case)
+maVariable = 0
+
+# Classes (PascalCase)
+class MaClasse:
+
+# Constantes (SCREAMING_SNAKE_CASE)
+PI = 3.1415
+```
 
 ## Indentation
 Utilisez des espaces pour l'indentation, pas de tabulations.
